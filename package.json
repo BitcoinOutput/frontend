@@ -43,6 +43,6 @@
     "typescript": "latest",
     "vite": "latest",
     "vue-cli-plugin-tailwind": "latest",
-    "vue-tsc": "latest"
+    "vue-tsc": "1.7.1"
   }
 }
