@@ -23,7 +23,7 @@
     "date-fns": "latest",
     "npm": "*",
     "v-pagination-3": "^0.1.7",
-    "vue": "3.2.47",
+    "vue": "3.3.2",
     "vue-router": "latest",
     "vue3-vt-notifications": "latest"
   },
